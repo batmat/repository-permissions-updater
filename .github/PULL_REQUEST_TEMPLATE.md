@@ -1,4 +1,8 @@
-<!-- This PR template only applies to permission changes. Ignore it for changes to the tool updating permissions in Artifactory -->
+<!-- This PR template applies to **all** permission changes.
+If you ignore it, or blank it out, the PR will be closed without review.
+Thanks for your understanding.
+
+You can ignore the PR template for changes to the tool updating permissions in Artifactory -->
 
 # Description
 
